@@ -1,4 +1,4 @@
-![Untitled](cover-gst.jpeg)
+![Untitled](cover_gst.jpeg)
 
 # 공부의 **辛**
 
