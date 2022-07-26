@@ -1,4 +1,4 @@
-![Untitled](dataset-cover.jpeg)
+![Untitled](cover-gst.jpeg)
 
 # 공부의 **辛**
 
