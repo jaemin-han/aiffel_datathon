@@ -1,4 +1,4 @@
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cf0f4e17-06c6-4ed4-a8c7-75b0f32b3c09/Untitled.png)
+![Untitled](dataset-cover.jpeg)
 
 # 공부의 **辛**
 
