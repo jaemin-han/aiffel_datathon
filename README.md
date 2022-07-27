@@ -19,9 +19,9 @@
 
 일단 목적을 구체적으로 세우기 보다는 각 칼럼 별로 적절한 시각화를 통해 그 결과를 바탕으로 결론을 도출해보자
 
-재민 : race/ethnicity, parental level of eductaion 두 범주형 데이터를 각 성적과 연관시켜 시각화
-민기 : gender, lunch, test preparation course 세 이진형 데이터를 각 성적과 연관시켜 시각화
-동교 : 모든 컬럼을 한눈에 보기 쉽게 시각화하기
+- 재민 : race/ethnicity, parental level of eductaion 두 범주형 데이터를 각 성적과 연관시켜 시각화  
+- 민기 : gender, lunch, test preparation course 세 이진형 데이터를 각 성적과 연관시켜 시각화  
+- 동교 : 모든 컬럼을 한눈에 보기 쉽게 시각화하기
 
 ---
 # 7월 27일 둘째 날
